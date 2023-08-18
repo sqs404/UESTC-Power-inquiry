@@ -1,3 +1,3 @@
-# UESTC-Power-inquiry
+# UESTC-power-inquiry
 python 3.10
-用selenium4搞的爬取uestc某一栋楼的所有寝室电费
+用selenium4（Chrome浏览器）搞的爬取uestc某一栋楼的所有寝室电费
